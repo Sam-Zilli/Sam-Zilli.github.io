@@ -1,0 +1,14 @@
+
+/* Styling for the header of the page */
+header {
+    /* parent div needs relative for child (button) to have absolute */
+    position : relative;
+    background-color: #eaeae0;
+  }
+
+
+  /* #pageTitle {
+    font-size: 20px;
+    font-weight: bold;
+  }
+   */
